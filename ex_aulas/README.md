@@ -1,1 +1,1 @@
-Exercícios da cadeira de Introdução à Programação, em sala.
+Atividades acadêmicas feitas em sala, para fixação de conteúdo da disciplina de Introdução à Programação.
